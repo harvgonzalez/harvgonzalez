@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Javier</h1>
-<h3 align="center">A Software Developer from Madrid🇪🇸 working in FinTech. Passionate about cutting-edge technology, sports and coffee</h3>
+<h3 align="center">A Software Developer from Madrid🇪🇸 working in Banking. Passionate about cutting-edge technology, sports and coffee</h3>
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
