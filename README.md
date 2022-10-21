@@ -7,7 +7,6 @@
 <img src="https://img.icons8.com/java.png" width="40" height="40" alt='java'/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
-<img src="https://img.icons8.com/color/48/000000/spring-boot.png" width="40" height="40" alt='css'/> -->
 <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" alt='github'/>
 </p>
 <p align="center">
