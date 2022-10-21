@@ -12,7 +12,7 @@
  <img src="https://www.codewars.com/users/harvgonzalez/badges/large" alt='codewars'/>
 
 <p align="left">
- - I am specialised in Backend Development working with Spring Boot, Azure Devops, Apigee, and Kubernetes
+
 - 👨‍💻 Some of my projects:
   - [Crypto Exchange](https://github.com/harvgonzalez/cotizador-crypto): Built with React 
    calling the API [Crypto Compare](https://min-api.cryptocompare.com) this app allows you to see in real time the exchange of €, £ or $ with four oft he most important cryptocurrencies.
@@ -24,7 +24,7 @@
   - more to come...  -->
 
 - 🔧 After learning the fundaments of web development on my own, I attended a ["Full-Stack Developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp at [Wild Code School](https://www.wildcodeschool.com/), that taught me the technical know-how and knowledge to develop interactive websites using HTML, CSS and JavaScript to take a React and Node JS development project to completion.
- - I am currently finishing an Associate Degree at Universidad Alfonso X El Sabio.
+ 
 
 - 📫 How to reach me **jgromeo93@gmail.com**
 
