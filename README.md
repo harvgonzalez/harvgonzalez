@@ -3,7 +3,6 @@
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt='javascript'/>
-<img src="https://img.icons8.com/ultraviolet/48/000000/angular.png" width="40" height="40" alt='react'/>
 <img src="https://img.icons8.com/java.png" width="40" height="40" alt='java'/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40" alt='sql'/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" height="40" alt='mongo'/>
